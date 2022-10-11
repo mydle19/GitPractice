@@ -9,5 +9,7 @@ public class HomeTest {
     //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
 
     int age = 37;
+    String email2 = "MyLe@test.com";
+
 
 }
